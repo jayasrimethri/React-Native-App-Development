@@ -28,7 +28,7 @@ This document outlines the implementation of a React Native application with pus
 
 2. **Install Dependencies**: Install required libraries for Firebase, notifications, and deep linking:
 
-   # npm install @react-native-firebase/app @react-native-firebase/messaging react-native-permissions @notifee/react-native @react-navigation/native @react-navigation/stack react-native-screens react-native-safe-area-context
+ **npm install @react-native-firebase/app @react-native-firebase/messaging react-native-permissions @notifee/react-native @react-navigation/native @react-navigation/stack react-native-screens react-native-safe-area-context**
 
    - `@react-native-firebase/app` and `@react-native-firebase/messaging`: For FCM integration.
    - `react-native-permissions`: For requesting notification permissions.

@@ -24,7 +24,7 @@ This document outlines the implementation of a React Native application with pus
 
    cd VedazPushNotificationApp
 
-   # This creates a project with the default package name `com.vedazpushnotificationapp`. Update the package name to a unique value (e.g., `com.yourname.vedazapp`) in `android/app/src/main/AndroidManifest.xml` and `android/app/build.gradle` to avoid conflicts.
+   **This creates a project with the default package name `com.vedazpushnotificationapp`. Update the package name to a unique value (e.g., `com.yourname.vedazapp`) in `android/app/src/main/AndroidManifest.xml` and `android/app/build.gradle` to avoid conflicts.**
 
 2. **Install Dependencies**: Install required libraries for Firebase, notifications, and deep linking:
 
@@ -96,7 +96,7 @@ This document outlines the implementation of a React Native application with pus
 
 # Step 3: Implement the Native Module in Kotlin
 
-# Create a custom Firebase Messaging Service to handle notifications and integrate with Notifee for advanced notification handling.
+**Create a custom Firebase Messaging Service to handle notifications and integrate with Notifee for advanced notification handling.**
 
 1. **Create the Service**:
 
